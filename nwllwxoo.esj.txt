@@ -1,0 +1,62 @@
+﻿v1
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#	new file:   .classpath
+#	new file:   .project
+#	new file:   .settings/.jsdtscope
+#	new file:   .settings/org.eclipse.jdt.core.prefs
+#	new file:   .settings/org.eclipse.wst.common.component
+#	new file:   .settings/org.eclipse.wst.common.project.facet.core.xml
+#	new file:   .settings/org.eclipse.wst.jsdt.ui.superType.container
+#	new file:   .settings/org.eclipse.wst.jsdt.ui.superType.name
+#	new file:   WebContent/META-INF/MANIFEST.MF
+#	new file:   WebContent/WEB-INF/classes/com/att/controller/Controller.class
+#	new file:   WebContent/WEB-INF/classes/com/att/dao/ProductDao.class
+#	new file:   WebContent/WEB-INF/classes/com/att/model/Product.class
+#	new file:   WebContent/WEB-INF/classes/com/att/util/DbConn.class
+#	new file:   WebContent/WEB-INF/classes/log4j.properties
+#	new file:   WebContent/WEB-INF/classes/opus.properties
+#	new file:   WebContent/WEB-INF/lib/dom4j-1.6.1.jar
+#	new file:   WebContent/WEB-INF/lib/hsqldb.jar
+#	new file:   WebContent/WEB-INF/lib/jstl.jar
+#	new file:   WebContent/WEB-INF/lib/log4j.jar
+#	new file:   WebContent/WEB-INF/lib/servlet-api.jar
+#	new file:   WebContent/WEB-INF/lib/standard.jar
+#	new file:   WebContent/WEB-INF/lib/table
+#	new file:   WebContent/WEB-INF/lib/xmlbeans-2.3.0.jar
+#	new file:   WebContent/WEB-INF/preweb.xml
+#	new file:   WebContent/WEB-INF/web.xml
+#	new file:   WebContent/css/ui-lightness/images/ui-bg_diagonals-thick_18_b81900_40x40.png
+#	new file:   WebContent/css/ui-lightness/images/ui-bg_diagonals-thick_20_666666_40x40.png
+#	new file:   WebContent/css/ui-lightness/images/ui-bg_flat_10_000000_40x100.png
+#	new file:   WebContent/css/ui-lightness/images/ui-bg_glass_100_f6f6f6_1x400.png
+#	new file:   WebContent/css/ui-lightness/images/ui-bg_glass_100_fdf5ce_1x400.png
+#	new file:   WebContent/css/ui-lightness/images/ui-bg_glass_65_ffffff_1x400.png
+#	new file:   WebContent/css/ui-lightness/images/ui-bg_gloss-wave_35_f6a828_500x100.png
+#	new file:   WebContent/css/ui-lightness/images/ui-bg_highlight-soft_100_eeeeee_1x100.png
+#	new file:   WebContent/css/ui-lightness/images/ui-bg_highlight-soft_75_ffe45c_1x100.png
+#	new file:   WebContent/css/ui-lightness/images/ui-icons_222222_256x240.png
+#	new file:   WebContent/css/ui-lightness/images/ui-icons_228ef1_256x240.png
+#	new file:   WebContent/css/ui-lightness/images/ui-icons_ef8c08_256x240.png
+#	new file:   WebContent/css/ui-lightness/images/ui-icons_ffd27a_256x240.png
+#	new file:   WebContent/css/ui-lightness/images/ui-icons_ffffff_256x240.png
+#	new file:   WebContent/css/ui-lightness/jquery-ui-1.8.18.custom.css
+#	new file:   WebContent/error.html
+#	new file:   WebContent/index.jsp
+#	new file:   WebContent/js/jquery-1.7.1.min.js
+#	new file:   WebContent/js/jquery-ui-1.8.18.custom.min.js
+#	new file:   WebContent/listProduct.jsp
+#	new file:   WebContent/login.jsp
+#	new file:   WebContent/product.jsp
+#	new file:   opus
+#	new file:   opus.war
+#	new file:   src/com/att/controller/Controller.java
+#	new file:   src/com/att/dao/ProductDao.java
+#	new file:   src/com/att/model/Product.java
+#	new file:   src/com/att/util/DbConn.java
+#	new file:   src/log4j.properties
+#	new file:   src/opus.properties
+#
+
